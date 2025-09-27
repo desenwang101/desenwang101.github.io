@@ -25,14 +25,26 @@ By the way, I am seeking admission to a PhD program :)
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 One paper submitted to TCSVT.
-- *2025.07*: &nbsp;🎉🎉 One paper submitted to AAAI’26!
+- *2025.07*: &nbsp;🎉🎉 One paper submitted to AAAI’26.
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by ACM MM’25!
 - *2025.03*: &nbsp;🎉🎉 One paper accepted by ICME’25! 
 
 # 📝 Publications 
+<!-- paper-2 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM'25</div><img src='images/ACM MM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[PET-GPRA: Rethinking PET with Gradient-Aware Prompting and Router-Free Adapters for Few-shot Class-Incremental Learning]()
+Yishu Liu, Zhiming Chen, **Desen Wang**, Xiaoling Luo, Bingzhi Chen, Guangming Lu 
+
+[**Project**]() 
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- Combining gradient-aware prompting with router-free adapters to balance stability–plasticity in FSCIL and achieve state-of-the-art performance. 
+</div>
+</div>
+
 
 <!-- paper-1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME2025</div><img src='images/ICME.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME'25(oral)</div><img src='images/ICME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Enhancing Few-Shot Class-Incremental Learning via Cross-Modal Bias Alignment]()
 **Desen Wang**, Zhiming Chen, Xiang Qiu, Yishu Liu, Bingzhi Chen
@@ -49,6 +61,7 @@ By the way, I am seeking admission to a PhD program :)
 - *2025.01* University-Level Student Innovation Scholarship of SCNU 
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+
 # 📖 Educations
 - *2022.09 - 2026.07 (now)*, Undergraduate Student, South China Normal University.
 
@@ -56,6 +69,7 @@ By the way, I am seeking admission to a PhD program :)
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
 
 # 💻 Internships
 - *2025.01 - present*, Visiting Student, Beijing Institute of Technology (BIT), China.
