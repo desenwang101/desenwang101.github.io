@@ -33,7 +33,8 @@ By the way, I am seeking admission to a PhD program :)
 <!-- paper-2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM'25</div><img src='images/ACM MM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[PET-GPRA: Rethinking PET with Gradient-Aware Prompting and Router-Free Adapters for Few-shot Class-Incremental Learning]()
+[PET-GPRA: Rethinking PET with Gradient-Aware Prompting and Router-Free Adapters for Few-shot Class-Incremental Learning]() 
+
 Yishu Liu, Zhiming Chen, **Desen Wang**, Xiaoling Luo, Bingzhi Chen, Guangming Lu 
 
 [**Project**]() 
@@ -47,6 +48,7 @@ Yishu Liu, Zhiming Chen, **Desen Wang**, Xiaoling Luo, Bingzhi Chen, Guangming L
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME'25(oral)</div><img src='images/ICME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Enhancing Few-Shot Class-Incremental Learning via Cross-Modal Bias Alignment]()
+
 **Desen Wang**, Zhiming Chen, Xiang Qiu, Yishu Liu, Bingzhi Chen
 
 [**Project**]() 
