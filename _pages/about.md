@@ -24,14 +24,15 @@ My research interests lies in Parameter-Efficient Tuning and Class Incremental L
 By the way, I am seeking admission to a PhD program :)
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 One paper submitted to TCSVT.
+- *2025.09*: &nbsp;🎉🎉 One paper submitted to TMM.
+- *2025.08*: &nbsp;🎉🎉 One paper submitted to TCSVT.
 - *2025.07*: &nbsp;🎉🎉 One paper submitted to AAAI’26.
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by ACM MM’25!
 - *2025.03*: &nbsp;🎉🎉 One paper accepted by ICME’25! 
 
 # 📝 Publications 
 <!-- paper-3 -->
-more papers are coming soon!
+🚀 More papers are coming soon!
 
 <!-- paper-2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM'25</div><img src='images/ACM MM.png' alt="sym" width="100%"></div></div>
