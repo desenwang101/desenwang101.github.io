@@ -21,7 +21,7 @@ I am a senior undergraduate student majoring in Software Engineering at South Ch
 
 My research interests lies in Parameter-Efficient Tuning and Class Incremental Learning, with an additional focus on Emboied AI, Reforcement Learning, and Medical Agent. Beyond my research, I am also deeply passionate about mathematics, programming, and history.
 
-
+By the way, I am seeking admission to a PhD program :)
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 One paper submitted to TCSVT.
@@ -31,23 +31,23 @@ My research interests lies in Parameter-Efficient Tuning and Class Incremental L
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- paper-1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME2025</div><img src='images/ICME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[Enhancing Few-Shot Class-Incremental Learning via Cross-Modal Bias Alignment]()
+**Desen Wang**, Zhiming Chen, Xiang Qiu, Yishu Liu, Bingzhi Chen
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**]() 
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- Enhancing pre-trained VLM's adaptation to continual tasks  via cross-modal bias alignment.
 </div>
 </div>
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01* University-Level Student Innovation Scholarship of SCNU 
+<!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
 - *2022.09 - 2026.07 (now)*, Undergraduate Student, South China Normal University.
