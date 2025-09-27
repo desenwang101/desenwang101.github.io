@@ -30,6 +30,9 @@ By the way, I am seeking admission to a PhD program :)
 - *2025.03*: &nbsp;🎉🎉 One paper accepted by ICME’25! 
 
 # 📝 Publications 
+<!-- paper-3 -->
+more papers are coming soon!
+
 <!-- paper-2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM'25</div><img src='images/ACM MM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
