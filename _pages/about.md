@@ -21,7 +21,7 @@ I am a senior undergraduate student majoring in Software Engineering at South Ch
 
 My research interests lies in Parameter-Efficient Tuning and Class Incremental Learning, with an additional focus on Emboied AI, Reforcement Learning, and Medical Agent. Beyond my research, I am also deeply passionate about mathematics, programming, and history.
 
-By the way, I am seeking admission to a PhD program :)
+By the way, I am seeking admission to a MPhil/PhD program :)
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 One paper submitted to TMM.
