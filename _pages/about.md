@@ -36,6 +36,7 @@ By the way, I am seeking admission to a MPhil/PhD program :)
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by ACM MM’25!
 - *2025.03*: &nbsp;🎉🎉 One paper accepted by ICME’25! 
 
+<span class='anchor' id='-publications'></span>
 # 📝 Selected Publications 
 <!-- paper-3 -->
 🚀 More papers are coming soon!
@@ -69,6 +70,7 @@ Yishu Liu, Zhiming Chen, **Desen Wang**, Xiaoling Luo, Bingzhi Chen, Guangming L
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
+<span class='anchor' id='-honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2026* Outstanding Student Scholarship of SCNU 
 - *2026* Student Innovation Scholarship of SCNU 
@@ -78,6 +80,7 @@ Yishu Liu, Zhiming Chen, **Desen Wang**, Xiaoling Luo, Bingzhi Chen, Guangming L
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
+<span class='anchor' id='-educations'></span>
 # 📖 Educations
 - *2022.09 - 2026.07 (now)*, Undergraduate Student, South China Normal University.
 
@@ -86,10 +89,11 @@ Yishu Liu, Zhiming Chen, **Desen Wang**, Xiaoling Luo, Bingzhi Chen, Guangming L
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-
+<span class='anchor' id='-internships'></span>
 # 💻 Internships
 - *2025.01 - 2025.12*, Visiting Student, Beijing Institute of Technology (BIT), China.
 - *2024.06 - 2024.12*, Visiting Student, Harbin Institute of Technology (HIT), China.
 
+<span class='anchor' id='-entrepreneurship'></span>
 # 🏢 Entrepreneurship
 - *2025.11 - Present*, Founding Member & Core Technical Lead, Shenzhen 1024 Robot Technology Co., Ltd.
