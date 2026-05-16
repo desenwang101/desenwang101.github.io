@@ -17,12 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate student majoring in Software Engineering at South China Normal University. 
+I am a senior undergraduate student majoring in Software Engineering at South China Normal University (ranked 17/331, top 5%). 
+
 
 After completing a one-year research internship under the mentorship of Prof. <a href='https://ai.bitzh.edu.cn/cs/info/1211/1581.htm'>Bingzhi Chen</a> at Beijing Institute of Technology, I joined <a href='https://www.1024robotics.com/'>Shenzhen 1024 Robot Technology Co., Ltd.</a>, a robotics unicorn founded by Prof. <a href='https://ai.sztu.edu.cn/info/1335/6139.htm'>Zhijian He</a>, as a founding member and core technical lead in November 2025, spearheading a VLN-based intelligent urban rail logistics system.
 
+
 While my previous research centered on Parameter-Efficient Tuning and Class Incremental Learning, my current research interests are firmly rooted in Embodied AI (VLA & VLN) and Reinforcement Learning.
-Beyond my research, I am also deeply passionate about mathematics and swimming.
+Beyond research, I am also deeply passionate about swimming.
+
 
 By the way, I am seeking admission to a MPhil/PhD program :)
 
@@ -71,6 +74,7 @@ Yishu Liu, Zhiming Chen, **Desen Wang**, Xiaoling Luo, Bingzhi Chen, Guangming L
 - *2026* Student Innovation Scholarship of SCNU 
 - *2025* Outstanding Student Scholarship of SCNU 
 - *2025* Student Innovation Scholarship of SCNU 
+- *2022–2026* 20+ Provincial and National Awards in Multiple Academic Competitions.
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
