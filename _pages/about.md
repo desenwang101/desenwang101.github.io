@@ -19,12 +19,7 @@ redirect_from:
 
 I am a senior undergraduate student majoring in Software Engineering at South China Normal University. 
 
-
-After following a rewarding research internship mentored by Prof. <a href='https://ai.bitzh.edu.cn/cs/info/1211/1581.htm'>Bingzhi Chen</a> at the Beijing Institute of Technology, I temporarily transitioned to industry by joining <a href='https://www.1024robotics.com/'>Shenzhen 1024 Robot Technology Co., Ltd.</a>—a robotics unicorn founded by Prof. <a href='https://ai.sztu.edu.cn/info/1335/6139.htm'>Zhijian He</a>. Since Nov. 2025 as founding member & core technical lead. I have served as the core technical lead spearheading the VLN-based Intelligent Urban Rail Logistics System.
-
-<!-- After finished research intern under the mentorship of  Prof. <a href='https://ai.bitzh.edu.cn/cs/info/1211/1581.htm'>Bingzhi Chen</a> at Beijing Institude of Technology, I joint Prof. <a href='https://ai.sztu.edu.cn/info/1335/6139.htm'>Zhijian He</a>'s company, <a href='https://www.1024robotics.com/'>Shenzhen 1024 Robot Technology Co., Ltd.</a>, a robotics unicorn and was fully responsible for Metro-Nav Project since Nov 2025. -->
-
-<!-- Since June 2024, I worked as a visiting student at Beijing Institude of Technology under the mentorship of  Prof. <a href='https://ai.bitzh.edu.cn/cs/info/1211/1581.htm'>Bingzhi Chen</a>. -->
+After completing a one-year research internship under the mentorship of Prof. <a href='https://ai.bitzh.edu.cn/cs/info/1211/1581.htm'>Bingzhi Chen</a> at Beijing Institute of Technology, I joined <a href='https://www.1024robotics.com/'>Shenzhen 1024 Robot Technology Co., Ltd.</a>, a robotics unicorn founded by Prof. <a href='https://ai.sztu.edu.cn/info/1335/6139.htm'>Zhijian He</a>, as a founding member and core technical lead in November 2025, spearheading a VLN-based intelligent urban rail logistics system.
 
 While my previous research centered on Parameter-Efficient Tuning and Class Incremental Learning, my current research interests are firmly rooted in Embodied AI (VLA & VLN) and Reinforcement Learning.
 Beyond my research, I am also deeply passionate about mathematics and swimming.
@@ -32,9 +27,9 @@ Beyond my research, I am also deeply passionate about mathematics and swimming.
 By the way, I am seeking admission to a MPhil/PhD program :)
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 One paper submitted to TMM.
-- *2025.08*: &nbsp;🎉🎉 One paper submitted to TCSVT.
-- *2025.07*: &nbsp;🎉🎉 One paper submitted to AAAI’26.
+- *2026.03*: &nbsp;🎉🎉 One paper submitted to IEEE TIP.
+- *2025.09*: &nbsp;🎉🎉 One paper submitted to IEEE TMM.
+- *2025.08*: &nbsp;🎉🎉 One paper submitted to IEEE TCSVT.
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by ACM MM’25!
 - *2025.03*: &nbsp;🎉🎉 One paper accepted by ICME’25! 
 
@@ -72,7 +67,10 @@ Yishu Liu, Zhiming Chen, **Desen Wang**, Xiaoling Luo, Bingzhi Chen, Guangming L
 
 
 # 🎖 Honors and Awards
-- *2025.01* University-Level Student Innovation Scholarship of SCNU 
+- *2026* Outstanding Student Scholarship of SCNU 
+- *2026* Student Innovation Scholarship of SCNU 
+- *2025* Outstanding Student Scholarship of SCNU 
+- *2025* Student Innovation Scholarship of SCNU 
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
@@ -86,5 +84,8 @@ Yishu Liu, Zhiming Chen, **Desen Wang**, Xiaoling Luo, Bingzhi Chen, Guangming L
 
 
 # 💻 Internships
-- *2025.01 - present*, Visiting Student, Beijing Institute of Technology (BIT), China.
+- *2025.01 - 2025.12*, Visiting Student, Beijing Institute of Technology (BIT), China.
 - *2024.06 - 2024.12*, Visiting Student, Harbin Institute of Technology (HIT), China.
+
+# 🏢 Entrepreneurship
+- *2025.11 - Present*, Founding Member & Core Technical Lead, Shenzhen 1024 Robot Technology Co., Ltd.
