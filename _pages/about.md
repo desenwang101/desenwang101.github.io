@@ -17,9 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate student majoring in Software Engineering at South China Normal University. Since June 2024, I worked as a visiting student at Beijing Institude of Technology under the mentorship of  Prof. <a href='https://ai.bitzh.edu.cn/cs/info/1211/1581.htm'>Bingzhi Chen</a>.
+I am a senior undergraduate student majoring in Software Engineering at South China Normal University. 
 
-My research interests lies in Parameter-Efficient Tuning and Class Incremental Learning, with an additional focus on Emboied AI, Reforcement Learning, and Medical Agent. Beyond my research, I am also deeply passionate about mathematics, programming, and history.
+
+After following a rewarding research internship mentored by Prof. <a href='https://ai.bitzh.edu.cn/cs/info/1211/1581.htm'>Bingzhi Chen</a> at the Beijing Institute of Technology, I temporarily transitioned to industry by joining <a href='https://www.1024robotics.com/'>Shenzhen 1024 Robot Technology Co., Ltd.</a>—a robotics unicorn founded by Prof. <a href='https://ai.sztu.edu.cn/info/1335/6139.htm'>Zhijian He</a>. Since Nov. 2025 as founding member & core technical lead. I have served as the core technical lead spearheading the VLN-based Intelligent Urban Rail Logistics System.
+
+<!-- After finished research intern under the mentorship of  Prof. <a href='https://ai.bitzh.edu.cn/cs/info/1211/1581.htm'>Bingzhi Chen</a> at Beijing Institude of Technology, I joint Prof. <a href='https://ai.sztu.edu.cn/info/1335/6139.htm'>Zhijian He</a>'s company, <a href='https://www.1024robotics.com/'>Shenzhen 1024 Robot Technology Co., Ltd.</a>, a robotics unicorn and was fully responsible for Metro-Nav Project since Nov 2025. -->
+
+<!-- Since June 2024, I worked as a visiting student at Beijing Institude of Technology under the mentorship of  Prof. <a href='https://ai.bitzh.edu.cn/cs/info/1211/1581.htm'>Bingzhi Chen</a>. -->
+
+While my previous research centered on Parameter-Efficient Tuning and Class Incremental Learning, my current research interests are firmly rooted in Embodied AI (VLA & VLN) and Reinforcement Learning.
+Beyond my research, I am also deeply passionate about mathematics and swimming.
 
 By the way, I am seeking admission to a MPhil/PhD program :)
 
