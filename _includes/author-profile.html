@@ -82,9 +82,6 @@
       {% if author.foursquare %}
         <li><a href="https://foursquare.com/{{ author.foursquare }}"><i class="fab fa-fw fa-foursquare" aria-hidden="true"></i> Foursquare</a></li>
       {% endif %}
-      {% if author.steam %}
-        <li><a href="https://steamcommunity.com/id/{{ author.steam }}"><i class="fab fa-fw fa-steam-square" aria-hidden="true"></i> Steam</a></li>
-      {% endif %}
       {% if author.youtube %}
         <li><a href="https://www.youtube.com/user/{{ author.youtube }}"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a></li>
       {% endif %}
@@ -111,6 +108,9 @@
       {% endif %}
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+      {% endif %}
+      {% if author.steam %}
+        <li><a href="https://steamcommunity.com/id/{{ author.steam }}"><i class="fab fa-fw fa-steam-square" aria-hidden="true"></i> Steam</a></li>
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
